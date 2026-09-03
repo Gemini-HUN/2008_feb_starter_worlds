@@ -8,4 +8,6 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ## Requirements
 This mod requires [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets)
 
+## Recommended
+[Exclude_Vanilla_starter_planets](https://github.com/Gemini-HUN/Exclude_Vanilla_starter_planets) if you dont want mess up with 162 vanilla starter planet possibility.
 **A galaxy reset is recommended before using this mod.**
