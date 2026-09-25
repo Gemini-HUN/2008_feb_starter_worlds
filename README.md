@@ -8,7 +8,9 @@ I found the 2008_feb version starter worlds. Why we can't play a new game on the
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
 ## Requirements
-This mod requires [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets)
+This mod requires
+* [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets) for loading the planets correctly
+* [Flora-Editor-Reconstruction](https://github.com/A-xesey/Flora-Editor-Reconstruction) for appear the fruits in an unknown issue
 
 ## Recommended
 [Exclude_Vanilla_starter_planets](https://github.com/Gemini-HUN/Exclude_Vanilla_starter_planets) if you dont want mess up with 162 vanilla starter planet possibility.
