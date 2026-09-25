@@ -10,7 +10,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ## Requirements
 This mod requires
 * [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets) for loading the planets correctly
-* [Flora-Editor-Reconstruction](https://github.com/A-xesey/Flora-Editor-Reconstruction) for appear the fruits in an unknown issue
+* [Flora-Editor-Reconstruction](https://github.com/A-xesey/Flora-Editor-Reconstruction) for appear fruits, an unknown reason
 
 ## Recommended
 [Exclude_Vanilla_starter_planets](https://github.com/Gemini-HUN/Exclude_Vanilla_starter_planets) if you dont want mess up with 162 vanilla starter planet possibility.
